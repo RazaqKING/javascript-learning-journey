@@ -4,7 +4,7 @@ A day is only marked ✅ when its **exercises, project, and assessment (≥ 75/1
 
 | Day | Date | Topic | Project | Score | Status |
 |---|---|---|---|---|---|
-| 1 | 2026-11-18 | Intro, console.log, variables | Personal Intro Card | — | 🟡 In progress |
+| 1 | 2026-11-18 | Intro, console.log, variables | Personal Intro Card | 79 | 🟡 Assessment passed, project fix pending |
 | 2 | | Data types, conversion, operators | Age & Life Stats Calculator | | ⬜ |
 | 3 | | Strings, template literals, numbers, Math | Bill Splitter & Tip Calculator | | ⬜ |
 | 4 | | Conditionals, switch | Simple Calculator + Grade Checker | | ⬜ |

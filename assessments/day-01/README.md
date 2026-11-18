@@ -19,3 +19,17 @@
 | Explanation | 7/10 |
 
 Revision to pass: re-answer Q1, Q4, Q5 fully; apply the card fix in `intro-card.js` yourself.
+
+## Revision answers
+- Q1: use const by default and let only when the code indicates it. — ✅
+- Q4: It means the code broke the rule that JavaScript was made to understand. — ✅
+- Q5: 2ndPlace invalid, userAge valid, first name invalid, a valid, totalPrice valid (good: userAge, totalPrice). — ✅
+
+## Revised score: 79/100 ✅ PASS
+| Area | Score |
+|---|---|
+| Concepts | 24/25 |
+| Exercises | 16/20 |
+| Project | 21/30 |
+| Code quality | 10/15 |
+| Explanation | 8/10 |
