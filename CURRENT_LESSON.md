@@ -2,6 +2,12 @@
 
 **Status:** In progress · **Started:** 2026-11-18
 
+## ⏸️ Where we stopped (2026-11-18)
+- ✅ Exercise 1, 2, 3 done (`daily-projects/day-01/exercises/`)
+- 🟡 Project `intro-card.js` works; one fix left: print the `Days done: 0` line **inside** the card (before the bottom border), and put the `// --- Update progress ---` comment above `daysCompleted = daysCompleted + 1;`. Remove the 2 stray `// --- Print the card ---` comments in "My details".
+- ⬜ Day 1 assessment (5 quiz questions + mini coding task, ~10 min)
+- Estimated time to finish Day 1: ~15 minutes
+
 ## A. Objectives — by the end of today you can:
 1. Explain in your own words what a program is and where JavaScript runs.
 2. Create a `.js` file and run it with `node`.
