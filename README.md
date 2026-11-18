@@ -3,10 +3,10 @@
 **30 days. 2 hours a day. One project every day.**
 A structured path from complete beginner to practical intermediate JavaScript developer: concepts first, then lots of hands-on code, daily code reviews, and honest assessments.
 
-![Day](https://img.shields.io/badge/day-1%20of%2030-yellow) ![Projects](https://img.shields.io/badge/projects%20completed-0-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-f7df1e?logo=javascript&logoColor=black)
+![Day](https://img.shields.io/badge/day-2%20of%2030-yellow) ![Projects](https://img.shields.io/badge/projects%20completed-1-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-f7df1e?logo=javascript&logoColor=black)
 
 ## 📌 Progress at a glance
-- **Current day:** Day 1, Your First JavaScript Program
+- **Current day:** Day 2, Data Types & Operators
 - **Roadmap:** [LEARNING_PLAN.md](LEARNING_PLAN.md)
 - **Daily log:** [DAILY_PROGRESS.md](DAILY_PROGRESS.md)
 - **Projects:** [PROJECT_TRACKER.md](PROJECT_TRACKER.md)
@@ -21,7 +21,7 @@ Polished applications with their own repositories. These will appear here as the
 ## 🧩 Daily projects
 | Day | Project | What it practises | Code |
 |---|---|---|---|
-| 1 | Personal Intro Card | `console.log`, variables, `let` vs `const` | _in progress_ |
+| 1 | Personal Intro Card | `console.log`, variables, `let` vs `const` | [day-01](daily-projects/day-01) |
 
 ## 📂 Repository structure
 ```

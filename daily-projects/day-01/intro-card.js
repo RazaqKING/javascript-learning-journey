@@ -24,10 +24,9 @@ console.log("Goal:      " + learningGoal);
 console.log("Favorite:  " + favoriteThing);
 
 
+console.log("Days done: " + daysCompleted);   // still 0 here
 console.log("==============================");
- daysCompleted = daysCompleted +1 ; // to keep me updated on the days i have completed and it will be updated as i continue to learn
-console.log("Days of JavaScript Completed: " + daysCompleted);
 
 // --- Update progress ---
-
+daysCompleted = daysCompleted + 1;            // same box: 0 → 1
 console.log("Update: I have completed " + daysCompleted + " day(s) of JavaScript!");

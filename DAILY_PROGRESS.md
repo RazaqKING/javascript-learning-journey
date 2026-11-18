@@ -4,7 +4,7 @@ A day is only marked ✅ when its **exercises, project, and assessment (≥ 75/1
 
 | Day | Date | Topic | Project | Score | Status |
 |---|---|---|---|---|---|
-| 1 | 2026-11-18 | Intro, console.log, variables | Personal Intro Card | 79 | 🟡 Assessment passed, project fix pending |
+| 1 | 2026-11-18 | Intro, console.log, variables | Personal Intro Card | 79 | ✅ Complete |
 | 2 | | Data types, conversion, operators | Age & Life Stats Calculator | | ⬜ |
 | 3 | | Strings, template literals, numbers, Math | Bill Splitter & Tip Calculator | | ⬜ |
 | 4 | | Conditionals, switch | Simple Calculator + Grade Checker | | ⬜ |
@@ -38,6 +38,14 @@ A day is only marked ✅ when its **exercises, project, and assessment (≥ 75/1
 ---
 
 ## Daily reports
+
+### Day 1: Your First JavaScript Program (2026-11-18)
+- **Topics completed:** what a program is, running JS with Node, `console.log`, statements, comments, `let` vs `const`, reassignment, naming rules, reading error messages
+- **Project completed:** Personal Intro Card (`daily-projects/day-01/intro-card.js`)
+- **Skills acquired:** writing and running a JS file; choosing `const`/`let` based on whether the code reassigns; planning an algorithm in English before coding (variable swap)
+- **Assessment score:** 79/100 (Concepts 24/25 · Exercises 16/20 · Project 21/30 · Quality 10/15 · Explanation 8/10); first attempt 73, passed after revision
+- **Concepts to revisit:** reading the *full* requirement/question before submitting (seen 3×); keep comments short and about *why*
+- **Ready for next day:** Yes
 
 <!-- Each completed day gets a report here:
 ### Day N — Title (date)

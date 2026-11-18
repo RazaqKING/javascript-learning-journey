@@ -4,7 +4,7 @@ Legend: ⬜ not started · 🟡 in progress · ✅ complete · 🚀 published ·
 
 | # | Project | Concepts | Location | Status |
 |---|---|---|---|---|
-| 1 | Personal Intro Card | console.log, comments, let/const | `daily-projects/day-01` | 🟡 |
+| 1 | Personal Intro Card | console.log, comments, let/const | `daily-projects/day-01` | 🚀 |
 | 2 | Age & Life Stats Calculator | data types, operators, conversion | `daily-projects/day-02` | ⬜ |
 | 3 | Bill Splitter & Tip Calculator | strings, template literals, Math | `daily-projects/day-03` | ⬜ |
 | 4 | Simple Calculator + Grade Checker | conditionals, switch | `daily-projects/day-04` | ⬜ |
