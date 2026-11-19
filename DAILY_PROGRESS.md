@@ -5,7 +5,7 @@ A day is only marked ✅ when its **exercises, project, and assessment (≥ 75/1
 | Day | Date | Topic | Project | Score | Status |
 |---|---|---|---|---|---|
 | 1 | 2026-11-18 | Intro, console.log, variables | Personal Intro Card | 79 | ✅ Complete |
-| 2 | 2026-11-19 | Data types, conversion, operators | Age & Life Stats Calculator | 70 (revising) | 🟡 Revision |
+| 2 | 2026-11-19 | Data types, conversion, operators | Age & Life Stats Calculator | 79 | ✅ Complete |
 | 3 | | Strings, template literals, numbers, Math | Bill Splitter & Tip Calculator | | ⬜ |
 | 4 | | Conditionals, switch | Simple Calculator + Grade Checker | | ⬜ |
 | 5 | | Loops, user input | Number Guessing Game | | ⬜ |
@@ -38,6 +38,14 @@ A day is only marked ✅ when its **exercises, project, and assessment (≥ 75/1
 ---
 
 ## Daily reports
+
+### Day 2: Data Types & Operators (2026-11-19)
+- **Topics completed:** 5 basic data types, `typeof`, `Number()`/`String()`, coercion (`"5" + 2`), arithmetic operators, `%`, `+=`/`-=`/`++`, expressions vs statements, `Math.floor`
+- **Project completed:** Age & Life Stats Calculator (`daily-projects/day-02/life-stats.js`)
+- **Skills acquired:** converting text input before maths; predicting coercion left to right; using `%` and `Math.floor` together to split a quantity
+- **Assessment score:** 79/100 (Concepts 21/25 · Exercises 17/20 · Project 23/30 · Quality 10/15 · Explanation 8/10); first attempt 70, passed after revision
+- **Concepts to revisit:** `%` gives the remainder itself, not the quotient; explaining *why* in words; reading every part of a question (seen 5× now)
+- **Ready for next day:** Yes
 
 ### Day 1: Your First JavaScript Program (2026-11-18)
 - **Topics completed:** what a program is, running JS with Node, `console.log`, statements, comments, `let` vs `const`, reassignment, naming rules, reading error messages

@@ -19,3 +19,20 @@
 | Explanation | 5/10 |
 
 Revision needed: string → number conversion for user input; `%` = remainder; `Math.floor` rounds down; explaining "why".
+
+## Reassessment
+| Q | Answer | Mark |
+|---|---|---|
+| 1 | `+` can join strings and add numbers; `-` only does maths | ✅ |
+| 2 | `const nextYearAge = Number(ageText) + 1;`; without it you'd get a string | ✅ (exact result: `"251"`) |
+| 3 | "gives 5 with 3 left over" | ½ Remainder idea correct, but `23 % 4` **gives 3** (5 is how many times 4 fits) |
+| 4 | `Math.floor(9.9)` → 9 (rounds down); `Number("9.9")` → 9.9 (converts string to number) | ✅ |
+
+## Revised score: 79/100 ✅ PASS
+| Area | Score |
+|---|---|
+| Concepts | 21/25 |
+| Exercises | 17/20 |
+| Project | 23/30 |
+| Code quality | 10/15 |
+| Explanation | 8/10 |
