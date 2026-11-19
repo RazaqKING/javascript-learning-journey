@@ -26,7 +26,7 @@ console.log("Hours: " + hours);
 console.log("Heartbeats: " + heartbeats);
 
 //  "in 10 years" (let + +=) and the age % 2 line
-let ageIn10Years = age + 10;
+let ageIn10Years = age;   // start with current age
+ageIn10Years += 10;       // add 10 to the same box
 console.log("Age in 10 years: " + ageIn10Years);
-// (0 or 1) - even or odd//
-console.log("Age modulo 2: " + age % 2);
+console.log("Even/odd check (0 = even, 1 = odd): " + (age % 2));
