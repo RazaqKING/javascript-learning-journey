@@ -7,7 +7,7 @@ A day is only marked ✅ when its **exercises, project, and assessment (≥ 75/1
 | 1 | 2026-11-18 | Intro, console.log, variables | Personal Intro Card | 79 | ✅ Complete |
 | 2 | 2026-11-19 | Data types, conversion, operators | Age & Life Stats Calculator | 79 | ✅ Complete |
 | 3 | 2026-11-24 | Strings, template literals, numbers, Math | Bill Splitter & Tip Calculator | 79 | ✅ Complete |
-| 4 | | Conditionals, switch | Simple Calculator + Grade Checker | | ⬜ |
+| 4 | 2026-11-26 | Conditionals, switch | Simple Calculator + Grade Checker | — | 🟡 In progress |
 | 5 | | Loops, user input | Number Guessing Game | | ⬜ |
 | 6 | | Functions | Temperature & Unit Converter | | ⬜ |
 | 7 | | Problem solving + review | Terminal Quiz Game | | ⬜ |

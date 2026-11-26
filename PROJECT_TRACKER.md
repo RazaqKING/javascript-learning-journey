@@ -7,7 +7,7 @@ Legend: ⬜ not started · 🟡 in progress · ✅ complete · 🚀 published ·
 | 1 | Personal Intro Card | console.log, comments, let/const | `daily-projects/day-01` | 🚀 |
 | 2 | Age & Life Stats Calculator | data types, operators, conversion | `daily-projects/day-02` | 🚀 |
 | 3 | Bill Splitter & Tip Calculator | strings, template literals, Math | `daily-projects/day-03` | 🚀 |
-| 4 | Simple Calculator + Grade Checker | conditionals, switch | `daily-projects/day-04` | ⬜ |
+| 4 | Simple Calculator + Grade Checker | conditionals, switch | `daily-projects/day-04` | 🟡 |
 | 5 | Number Guessing Game | loops, input | `daily-projects/day-05` | ⬜ |
 | 6 | Temperature & Unit Converter | functions | `daily-projects/day-06` | ⬜ |
 | 7 | Terminal Quiz Game | problem solving, review | `daily-projects/day-07` | ⬜ |
