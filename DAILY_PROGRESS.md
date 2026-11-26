@@ -6,7 +6,7 @@ A day is only marked ✅ when its **exercises, project, and assessment (≥ 75/1
 |---|---|---|---|---|---|
 | 1 | 2026-11-18 | Intro, console.log, variables | Personal Intro Card | 79 | ✅ Complete |
 | 2 | 2026-11-19 | Data types, conversion, operators | Age & Life Stats Calculator | 79 | ✅ Complete |
-| 3 | 2026-11-24 | Strings, template literals, numbers, Math | Bill Splitter & Tip Calculator | — | 🟡 In progress |
+| 3 | 2026-11-24 | Strings, template literals, numbers, Math | Bill Splitter & Tip Calculator | 79 | ✅ Complete |
 | 4 | | Conditionals, switch | Simple Calculator + Grade Checker | | ⬜ |
 | 5 | | Loops, user input | Number Guessing Game | | ⬜ |
 | 6 | | Functions | Temperature & Unit Converter | | ⬜ |
@@ -38,6 +38,14 @@ A day is only marked ✅ when its **exercises, project, and assessment (≥ 75/1
 ---
 
 ## Daily reports
+
+### Day 3: Strings, Template Literals & Numbers (2026-11-24 to 26)
+- **Topics completed:** template literals, `length` and indexes, `toUpperCase/toLowerCase/trim/includes/indexOf/slice/replace/padEnd`, strings never change, `Math.round/ceil/floor`, `toFixed`
+- **Project completed:** Bill Splitter & Tip Calculator (`daily-projects/day-03/bill-splitter.js`)
+- **Skills acquired:** formatting aligned output; splitting and capitalising text; money formatting; solved the name-cleaning problem with a written plan
+- **Assessment score:** 79/100 (Concepts 19/25 · Exercises 16/20 · Project 26/30 · Quality 12/15 · Explanation 6/10)
+- **Concepts to revisit:** a method's result must be stored or printed; avoid hard-coded positions (use `indexOf`/`lastIndexOf`); output must match exactly (spelling, spaces); explain *why* clearly
+- **Ready for next day:** Yes
 
 ### Day 2: Data Types & Operators (2026-11-19)
 - **Topics completed:** 5 basic data types, `typeof`, `Number()`/`String()`, coercion (`"5" + 2`), arithmetic operators, `%`, `+=`/`-=`/`++`, expressions vs statements, `Math.floor`

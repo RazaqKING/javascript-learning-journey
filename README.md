@@ -3,10 +3,10 @@
 **30 days. 2 hours a day. One project every day.**
 A structured path from complete beginner to practical intermediate JavaScript developer: concepts first, then lots of hands-on code, daily code reviews, and honest assessments.
 
-![Day](https://img.shields.io/badge/day-3%20of%2030-yellow) ![Projects](https://img.shields.io/badge/projects%20completed-2-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-f7df1e?logo=javascript&logoColor=black)
+![Day](https://img.shields.io/badge/day-4%20of%2030-yellow) ![Projects](https://img.shields.io/badge/projects%20completed-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-f7df1e?logo=javascript&logoColor=black)
 
 ## 📌 Progress at a glance
-- **Current day:** Day 3, Strings, Template Literals & Numbers
+- **Current day:** Day 4, Conditionals
 - **Roadmap:** [LEARNING_PLAN.md](LEARNING_PLAN.md)
 - **Daily log:** [DAILY_PROGRESS.md](DAILY_PROGRESS.md)
 - **Projects:** [PROJECT_TRACKER.md](PROJECT_TRACKER.md)
@@ -23,6 +23,7 @@ Polished applications with their own repositories. These will appear here as the
 |---|---|---|---|
 | 1 | Personal Intro Card | `console.log`, variables, `let` vs `const` | [day-01](daily-projects/day-01) |
 | 2 | Age & Life Stats Calculator | data types, `Number()`, operators, `%` | [day-02](daily-projects/day-02) |
+| 3 | Bill Splitter & Tip Calculator | template literals, string methods, `toFixed`, `Math.ceil` | [day-03](daily-projects/day-03) |
 
 ## 📂 Repository structure
 ```
